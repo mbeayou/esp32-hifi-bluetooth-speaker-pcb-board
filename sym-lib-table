@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BLUETOOTH_SPEAKER_Library")(type "KiCad")(uri "${KIPRJMOD}/BLUETOOTH_SPEAKER_Library.kicad_sym")(options "")(descr ""))
+)
